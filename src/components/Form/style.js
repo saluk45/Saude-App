@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   formContext: {
     width:"100%",
     height:"100%",
+    justifyContent:"space-around",
     bottom:0,
     backgroundColor:"white",
     alignItems:"center",
@@ -51,7 +52,7 @@ const styles = StyleSheet.create({
         color:"red",
         fontWeight:"bold",
         paddingLeft:20,
-    }
+    },
 });
 
 export default styles
