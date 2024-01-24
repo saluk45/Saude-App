@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
         paddingLeft: 20,
     },
     input:{
-        width:"90%",
+        width:"95%",
         borderRadius:50,
         backgroundColor:"#f6f6f6",
         height:40,
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
         borderRadius:50,
         alignItems:"center",
         justifyContent:"center",
-        width:"90%",
+        width:"95%",
         backgroundColor:"green",
         paddingTop:14,
         paddingBottom:14,
